@@ -1,2 +1,2 @@
 # scriptpy
-## pip install scriptpy 
+## pip install sketchpy
