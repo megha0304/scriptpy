@@ -1,1 +1,2 @@
 # scriptpy
+## pip install scriptpy 
