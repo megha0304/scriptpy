@@ -1,3 +1,4 @@
 # scriptpy
 ## pip install sketchpy
-![image](https://user-images.githubusercontent.com/74877752/184686501-d21b8f0a-c56f-491a-8aff-b4238fc59a56.png)
+![image](https://user-images.githubusercontent.com/74877752/184686889-b4dedd42-634c-4845-bedc-98dd890366be.png)
+
